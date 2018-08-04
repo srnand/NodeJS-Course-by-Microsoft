@@ -9,6 +9,10 @@ A simple html data extractor of the provided website from the command line argum
 
 A simple csv to json converter using the csvtojson npm module.
 
-## InMemory REST-api
+## In-Memory REST-api
 
-REST api implemenatation for all the basic CRUD requests, inmemory (the data gets lost when the server is stopped). 
+REST api implemenatation for all the basic CRUD requests, inmemory (the data gets lost when the server is stopped) with Express Middleware Framework.
+
+## In-Memory REST-blog-api
+
+Assignment from the course, REST api implemenatation for all the basic CRUD requests, for various different end points, inmemory (the data gets lost when the server is stopped) with Express Middleware Framework.
